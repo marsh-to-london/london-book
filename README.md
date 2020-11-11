@@ -1,6 +1,6 @@
 # Как переехать в Лондон и не сойти с ума?
 
-This cookiecutter creates a simple boilerplate for a Jupyter Book.
+This cookiecutter creates a simple boilerplate for a Jupyter Book. The website address is https://marsh-to-london.netlify.app. 
 
 ## Usage
 
