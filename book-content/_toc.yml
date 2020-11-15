@@ -1,7 +1,26 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
+
+#============Landing Page ==================
 - file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+
+# ====== Part  One: Before =================
+- part: До переезда
+  chapters:
+  - file: before/before_tmp.md
+
+
+# ====== Part  Two: Just moved=================
+- part: Только перехали
+  chapters:
+  - file: just-moved/just_moved_tmp.md
+
+      
+
+# ====== Part Three: After=================
+- part: Я тут давно
+  chapters:
+  - file: after/after_tmp.md
+
+      
+      
