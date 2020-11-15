@@ -47,5 +47,5 @@ Clone repository, pull request, you know the drill.
 Вопросы и преложения находятся там же на Github, open issue / suggest edit.
 ```
 
-
+Спасибо!
 
