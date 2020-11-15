@@ -9,3 +9,23 @@ title                       : Как переехать в Лондон и не 
 author                      : Мария и Виталий  # The author of the book
 copyright                   : "2020"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
+
+#######################################################################################
+# Book settings
+title                       : Как переехать в Лондон и не сойти с ума?  # The title of the book. Will be placed in the left navbar.
+author                      : Мария и Виталий  # The author of the book
+copyright                   : "2020"  # Copyright year to be placed in the footer
+logo                        : logo.png  # A path to the book logo
+
+#######################################################################################
+# HTML-specific settings
+html:
+  use_repository_button     : true  # Whether to add an "Repository" button to pages. If `true`, repository information in repository: must be filled in
+  use_issues_button         : true # Whether to add an "Open issue" button to pages. If `true`, repository information in repository: must be filled in
+  use_edit_page_button      : true  # Whether to add an "Suggest edit" button to pages. If `true`, repository information in repository: must be filled in
+
+#######################################################################################
+# Launch button settings
+repository:
+  url                       : https://github.com/marsh-to-london/london-book  # The URL to your book's repository
+  path_to_book              : "book-content"  # A path to your book's folder, relative to the repository root.
