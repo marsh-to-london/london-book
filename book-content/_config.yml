@@ -5,18 +5,11 @@
 
 #######################################################################################
 # Book settings
-title                       : Как переехать в Лондон и не сойти с ума?  # The title of the book. Will be placed in the left navbar.
+title                       : ""
 author                      : Мария и Виталий  # The author of the book
 copyright                   : "2020"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
-
-#######################################################################################
-# Book settings
-title                       : Как переехать в Лондон и не сойти с ума?  # The title of the book. Will be placed in the left navbar.
-author                      : Мария и Виталий  # The author of the book
-copyright                   : "2020"  # Copyright year to be placed in the footer
-logo                        : logo.png  # A path to the book logo
-
+ 
 #######################################################################################
 # HTML-specific settings
 html:
